@@ -1,0 +1,1 @@
+# django_learn_model_2
